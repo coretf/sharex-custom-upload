@@ -1,5 +1,4 @@
 ## Webserver setup
---
 
 * change $pass to your liking, to use multiple passwords, just add them to the array
 * change $domain to your domain (ex.https://xaizone.eu/)
@@ -8,7 +7,6 @@
 * chmod 777 upload.php and $dir
 
 ## ShareX setup
---
 
 * click on destinations > custom uploader settings
 * click on import > from file and import upload.sxcu
