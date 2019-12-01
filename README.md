@@ -11,3 +11,4 @@
 * click on destinations > custom uploader settings
 * click on import > from file and import upload.sxcu
 * change YOUR_DOMAIN_HERE to $domain from upload.php
+* change secret to your $pass from upload.php
